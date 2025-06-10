@@ -49,3 +49,4 @@
 -- Deployed Link:
 
 fyp-supervisor-finder-44bce.firebaseapp.com
+fyp-supervisor-finder-44bce.web.app
