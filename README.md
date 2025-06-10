@@ -1,3 +1,5 @@
+Important note: If web page doesn’t load, refresh page after Login.
+
 -- Documentation Structure:
 
 1-Component & Context Guides
