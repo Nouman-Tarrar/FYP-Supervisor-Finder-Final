@@ -12,6 +12,12 @@ Important note: If web page doesn’t load, refresh page after Login.
    noumantarrar918@gmail.com
    Nexusreaper456
 
+-- Deployed Link:
+
+fyp-supervisor-finder-44bce.firebaseapp.com
+
+fyp-supervisor-finder-44bce.web.app
+
 -- Documentation Structure:
 
 1-Component & Context Guides
@@ -59,12 +65,6 @@ Important note: If web page doesn’t load, refresh page after Login.
    Role manually assigned in the users collection (e.g., by setting role: "admin").
    Access to FacultyManagement page for CRUD on faculty.
    Cannot browse or reserve supervisors.
-
--- Deployed Link:
-
-fyp-supervisor-finder-44bce.firebaseapp.com
-
-fyp-supervisor-finder-44bce.web.app
 
 -- Features
 
