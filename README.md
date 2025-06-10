@@ -34,7 +34,7 @@
 4-Delete
    Faculty Records: Admins remove supervisors with deleteDoc(doc(db, "faculty", id)).
 
-Role Management:
+-- Role Management:
 
 1-Student
    Default role upon signup.
@@ -46,6 +46,6 @@ Role Management:
    Access to FacultyManagement page for CRUD on faculty.
    Cannot browse or reserve supervisors.
 
-Deployed Link:
+-- Deployed Link:
 
 fyp-supervisor-finder-44bce.firebaseapp.com
