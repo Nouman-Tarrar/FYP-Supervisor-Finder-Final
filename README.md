@@ -50,3 +50,27 @@
 
 fyp-supervisor-finder-44bce.firebaseapp.com
 fyp-supervisor-finder-44bce.web.app
+
+-- Features
+
+👨‍🎓 Student Portal
+
+**Browse Supervisors**: View faculty members with details like domain, slots available, office hours, and profile photo.
+**Select Supervisor**: Students can select one available supervisor (if slots remain).
+**Track Project Progress**: View FYP submission steps, revisions, deadlines, and progress via a visual stepper UI.
+
+👨‍🏫 Admin/Faculty Portal
+
+**Faculty Management**:
+  - Add, update, or delete faculty records.
+  - Fields include: Name, Email, Domain, Office Hours, Slots, and Profile Picture URL.
+**Student Management** *(optional/expandable)*:
+  - View selected supervisors.
+  - Monitor student project status.
+  
+🔐 Authentication
+
+- Google Sign-In  
+- Email/Password Sign-Up & Login  
+- Role-based protected routes using React Context
+
