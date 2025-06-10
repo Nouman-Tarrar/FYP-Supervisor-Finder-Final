@@ -1,5 +1,17 @@
 Important note: If web page doesn’t load, refresh page after Login.
 
+-- Admin Credentials (Both are Login with Google)
+
+1- Admin/Faculty Login:
+
+   noumantarrar6@gmail.com 
+   Nexusreaper456
+
+2- Student Login:
+
+   noumantarrar918@gmail.com
+   Nexusreaper456
+
 -- Documentation Structure:
 
 1-Component & Context Guides
